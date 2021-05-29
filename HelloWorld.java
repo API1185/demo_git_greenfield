@@ -9,5 +9,7 @@ public class HelloWorld {
         Scanner reader = new Scanner(System.in);
         System.out.print("Hello World");
 
+	System.out.print("World Awake");
+
     }
 }
